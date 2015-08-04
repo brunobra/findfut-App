@@ -21,8 +21,8 @@
             android:label="@string/title_activity_login" >
         </activity>
         <activity
-            android:name=".SiginActivity"
-            android:label="@string/title_activity_sigin"
+            android:name=".SignUpActivity"
+            android:label="@string/title_activity_sign_up"
             android:parentActivityName=".LoginActivity">
         </activity>
     </application>

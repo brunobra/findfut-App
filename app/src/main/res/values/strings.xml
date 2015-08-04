@@ -12,13 +12,13 @@
     <string name="email_hint">Email</string>
     <string name="password_hint">Senha</string>
     <string name="login_button_text">Entrar</string>
-    <string name="sigin_text">Cadastre-se</string>
-    <string name="title_activity_sigin">SiginActivity</string>
+    <string name="sign_up_text">Cadastre-se</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
     <string name="first_name_hint">Nome</string>
     <string name="last_name_hint">Sobrenome</string>
     <string name="bday_hint">Data de Nascimento</string>
     <string name="confirm_password_hint">Confirmar Senha</string>
-    <string name="sigin_button_text">Cadastrar</string>
+    <string name="sign_up_button_text">Cadastrar</string>
     <string name="state_hint">Estado</string>
     <string name="city_hint">Cidade</string>
 </resources>
