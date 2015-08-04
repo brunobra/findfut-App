@@ -13,4 +13,5 @@
     <string name="password_hint">Senha</string>
     <string name="login_button_text">Entrar</string>
     <string name="sigin_text">Cadastre-se</string>
+    <string name="title_activity_sigin">SiginActivity</string>
 </resources>
