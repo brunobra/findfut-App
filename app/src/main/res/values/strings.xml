@@ -22,4 +22,5 @@
     <string name="sign_up_button_text">Cadastrar</string>
     <string name="state_hint">Estado</string>
     <string name="city_hint">Cidade</string>
+    <string name="action_logout">Logout</string>
 </resources>
